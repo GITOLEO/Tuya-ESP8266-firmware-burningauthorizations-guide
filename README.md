@@ -14,13 +14,13 @@
 
 ## **Step1: Create a product and get your token ID**
 
-To implement the communication between an Arduino-compatible board and ESP8266, you need to create a product on the [Tuya IoT Platform](https://iot.tuya.com/?_source=ccbb5041db8e537eb005ee8dce8b70d8) beforehand to get the product ID (PID) and **send your Tuya IoT Account and PID to** [devops@tuya.com](devops@tuya.com)**to get your Token ID.**
+To implement the communication between an Arduino-compatible board and ESP8266, you need to create a product on the [Tuya IoT Platform](https://auth.tuya.com/?_source=82e9e9208324480c0c23a5f35e0ba170) beforehand to get the product ID (PID) and **send your Tuya IoT Account and PID to** [devops@tuya.com](devops@tuya.com)**to get your Token ID.**
 
 For example, the steps to get the PID of a smart light bulb are as follows:
 
-1.Log in to the [Tuya IoT Platform](https://iot.tuya.com/?_source=ccbb5041db8e537eb005ee8dce8b70d8).
+1.Log in to the [Tuya IoT Platform](https://auth.tuya.com/?_source=82e9e9208324480c0c23a5f35e0ba170).
 
-2.See [Create Products](https://developer.tuya.com/en/docs/iot/configure-in-platform/create-product/create-product?id=K914jp1ijtsfe) and create a smart light bulb product, such as a Wi-Fi and Bluetooth Low Energy light bulb implemented by the **Custom Solution**.
+2.See [Create Products](https://developer.tuya.com/en/docs/iot/configure-in-platform/create-product/create-product?id=K914jp1ijtsfe&_source=50928cbf6f24a08532deb76fba853312) and create a smart light bulb product, such as a Wi-Fi and Bluetooth Low Energy light bulb implemented by the **Custom Solution**.
 
 ​            ![img](https://wdcdn.qpic.cn/MTY4ODg1MDI5OTc1MTU0MA_98445_z15VKr6xpjTUnqfl_1622537406?sign=1622793067-1098864985-0-dfc249c0f64fb99722f2ba11f7f3e7f3)            
 
