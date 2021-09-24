@@ -34,13 +34,16 @@ For example, the steps to get the PID of a smart light bulb are as follows:
 
 1.Sign up the [PMS System](https://pms.tuya.com/en/login?_source=13efde86f8c2306108c691615a0ff592). and login
 
-​            ![img](https://wdcdn.qpic.cn/MTY4ODg1MDI5OTc1MTU0MA_799440_-yuTVs4o5Z2FYN0H_1622541080?sign=1622793067-1957239040-0-f1d8d9822aa19fa9a1dc6e2ae3ff5518)            
+![image](https://user-images.githubusercontent.com/85163056/134649821-28b78d31-3837-47c7-a066-e5daba225ad8.png)
+        
 
 2.Select Factory Work Order-Activation Code Verification.Input Token ID that you got from Step1 and confirm.One Token ID can only be activated by one user.
 
-​            ![img](https://wdcdn.qpic.cn/MTY4ODg1MDI5OTc1MTU0MA_906761_d4R-Y3cerFEHqHot_1622539016?sign=1622793067-2115171135-0-48eb5ca64205453d12ca94139ca5503d)            
+​![image](https://user-images.githubusercontent.com/85163056/134650674-b3bfa3e9-bd3c-4be1-8303-4cf744d235eb.png)
+         
 
-​            ![img](https://wdcdn.qpic.cn/MTY4ODg1MDI5OTc1MTU0MA_292903_2MXVDOb-ztwHT5c3_1622539221?sign=1622793067-1241243775-0-61429e480dc679ec9bc6291cc008fd93)            
+​ ![image](https://user-images.githubusercontent.com/85163056/134650818-3dcba34c-cb28-4032-9a75-99e87a09100c.png)
+     
 
 ## **Step3: Install TYDA.exe and ESP8266 driver**
 
