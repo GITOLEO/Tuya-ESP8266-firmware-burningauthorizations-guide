@@ -47,7 +47,7 @@ For example, the steps to get the PID of a smart light bulb are as follows:
 
 ## **Step3: Install TYDA.exe and ESP8266 driver**
 
-## 1.Download installations package on the goolge drive:[Installation Packages](https://drive.google.com/file/d/1SF-rM5qDLaPJiuMHrkqFauVyRXSSHMkj/view?usp=sharing).Install the Tuya_TYDA_Install_V2.4.0 and login with your PMS account.And then click **Online Login**. You can choose **Automatic Login** and **Remember The Password** as needed.            ![img](https://wdcdn.qpic.cn/MTY4ODg1MDI5OTc1MTU0MA_964731_lSPvV28fVl6XI426_1622540841?sign=1622793067-1936010714-0-3b5467f4a41730cfb97703faba288480)            
+1.Download installations package on the goolge drive:[Installation Packages](https://drive.google.com/file/d/1SF-rM5qDLaPJiuMHrkqFauVyRXSSHMkj/view?usp=sharing).Install the Tuya_TYDA_Install_V2.4.0 and login with your PMS account.And then click **Online Login**. You can choose **Automatic Login** and **Remember The Password** as needed.            ![img](https://wdcdn.qpic.cn/MTY4ODg1MDI5OTc1MTU0MA_964731_lSPvV28fVl6XI426_1622540841?sign=1622793067-1936010714-0-3b5467f4a41730cfb97703faba288480)            
 
 ​            ![img](https://wdcdn.qpic.cn/MTY4ODg1MDI5OTc1MTU0MA_35721_Xxh0BuJNM7sRoEjf_1622541194?sign=1622793067-1517377812-0-e3469255bfae162c96eda55143f4b455)            
 
