@@ -14,7 +14,7 @@
 
 ## **Step1: Create a product and get your token ID**
 
-To implement the communication between an Arduino-compatible board and ESP8266, you need to create a product on the Tuya IoT Platform: https://auth.tuya.com/?_source=82e9e9208324480c0c23a5f35e0ba170 beforehand to get the product ID (PID) and **send your Tuya IoT Account(register from this link Tuya IoT Platform:https://auth.tuya.com/?_source=82e9e9208324480c0c23a5f35e0ba170) and PID to [Tuya service](https://service.console.tuya.com/8/2/list?_source=c5965e0f53c87ba9d0eb99af0f4b124f) to get your Token ID.
+To implement the communication between an Arduino-compatible board and ESP8266, you need to create a product on the Tuya IoT Platform: https://auth.tuya.com/?_source=82e9e9208324480c0c23a5f35e0ba170 beforehand to get the product ID (PID) and **send your Tuya IoT Account(registered from this link Tuya IoT Platform:https://auth.tuya.com/?_source=82e9e9208324480c0c23a5f35e0ba170)** and PID to [Tuya service](https://service.console.tuya.com/8/2/list?_source=c5965e0f53c87ba9d0eb99af0f4b124f) and submit your business demand with Company Name to get your Token ID.
 
 For example, the steps to get the PID of a smart light bulb are as follows:
 
@@ -24,7 +24,7 @@ For example, the steps to get the PID of a smart light bulb are as follows:
 
 ​            ![img](https://wdcdn.qpic.cn/MTY4ODg1MDI5OTc1MTU0MA_98445_z15VKr6xpjTUnqfl_1622537406?sign=1622793067-1098864985-0-dfc249c0f64fb99722f2ba11f7f3e7f3)            
 
-3.Copy the PID and together with your Tuya IoT account name to [Tuya service](https://service.console.tuya.com/8/2/list?_source=c5965e0f53c87ba9d0eb99af0f4b124f) to get your Token ID.
+3.Copy the PID and together and your Tuya IoT account name and company name to [Tuya service](https://service.console.tuya.com/8/2/list?_source=c5965e0f53c87ba9d0eb99af0f4b124f) to get your Token ID.
 
 ​            ![img](https://wdcdn.qpic.cn/MTY4ODg1MDI5OTc1MTU0MA_141539_yiCzfG1entSTaR4D_1622537406?sign=1622793067-889732388-0-08ad5e9320af9dfe4ec6ffb5f57de7e9)            
 
